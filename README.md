@@ -1,6 +1,5 @@
 # "__Linear Regression in R Practice__"
 ## "Author: Le Thanh Nguyen"
-## Date: "`r format(Sys.time(), '%d %B %Y')`" 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
