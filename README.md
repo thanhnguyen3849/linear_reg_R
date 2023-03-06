@@ -1,19 +1,6 @@
----
-title: "__Linear Regression in R Practice__"
-author:
-  name: "Author: Le Thanh Nguyen"
-date: "`r format(Sys.time(), '%d %B %Y')`" 
-output:
-  bookdown::html_document2:
-    number_sections: TRUE
-    code_folding: hide
-    df_print: kable
-    toc: true
-    toc_float: 
-      toc_collapsed: true
-    theme: spacelab
-    highlight: zenburn
----
+# "__Linear Regression in R Practice__"
+## "Author: Le Thanh Nguyen"
+## Date: "`r format(Sys.time(), '%d %B %Y')`" 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
